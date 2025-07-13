@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Paradise-Nursery-Shopping/static/css/main.dd596584.css",
+    "main.js": "/Paradise-Nursery-Shopping/static/js/main.29d364b7.js",
+    "index.html": "/Paradise-Nursery-Shopping/index.html",
+    "main.dd596584.css.map": "/Paradise-Nursery-Shopping/static/css/main.dd596584.css.map",
+    "main.29d364b7.js.map": "/Paradise-Nursery-Shopping/static/js/main.29d364b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd596584.css",
+    "static/js/main.29d364b7.js"
+  ]
+}
