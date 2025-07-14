@@ -6,11 +6,7 @@ import Home from "./components/Homepage"
 
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(
-    <Provider store={store}>
-        <Home />
-    </Provider>
-)
+root.render(<Home />)
 
 
 
